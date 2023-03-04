@@ -16,4 +16,4 @@ Hi, I’m Andrei Kudriavtcev
 - 🌱 I’m currently learning Quality Assurance
 - 📫 How to reach me: koo.qqq1@gmail.com
 
-📈 I am learning these tools: Terminal, GitBash, Visual Studio Code, Postman, Android Studio, DevTools, Jira, Charles, Fiddler, JavaScript, MySQL; 🛠️
+📈 I am learning these tools: Terminal, GitBash, Visual Studio Code, [Postman](https://github.com/nonalone/postman), Android Studio, DevTools, Jira, Charles, Fiddler, JavaScript, MySQL; 🛠️
